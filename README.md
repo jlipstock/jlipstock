@@ -19,6 +19,10 @@ a photo-driven Milky Way, nebulae and galaxies, exports 16K HDR environments, an
 toolset to Roblox: real-time water, fish schools and bird flocks, scatter, fog, caustics and a Maya/Houdini bridge,
 built for a live game that holds 60 fps on phones.
 
+📈 **[Whatnot Stream Tracker](https://github.com/jlipstock/whatnot-stream-tracker)**: a Chrome extension for a live-selling business.
+It quietly scans the platform every 30 minutes and turns the data into a weekly heatmap of the best low-competition
+times to go live, with an AI advice tab on top.
+
 **What I work with**
 
 Maya · Houdini · Arnold · Python · C++ / CUDA · GLSL · NVIDIA OptiX · OpenVDB · Claude Code
