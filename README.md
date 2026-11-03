@@ -23,6 +23,10 @@ built for a live game that holds 60 fps on phones.
 It quietly scans the platform every 30 minutes and turns the data into a weekly heatmap of the best low-competition
 times to go live, with an AI advice tab on top.
 
+🧠 **[Trading research brain](https://github.com/jlipstock/trading-research-brain)**: an AI research lab that tries to prove
+its own trading ideas wrong. Agents propose, debate, test and learn under honesty rules enforced in code (pre-declared bars,
+a luck ledger, look-ahead guards), plus the trading system that routes orders to Interactive Brokers behind a fidelity gate.
+
 **What I work with**
 
 Maya · Houdini · Arnold · Python · C++ / CUDA · GLSL · NVIDIA OptiX · OpenVDB · Claude Code
