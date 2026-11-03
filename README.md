@@ -8,9 +8,9 @@ large, hard projects until the result holds up to that standard.
 
 **Featured project**
 
-🌥️ **[Maya Cloudscape](https://github.com/jlipstock/maya-cloudscape)**: art-directable 360° volumetric skies,
-rendered live in the Maya viewport with GPU ray-marching and RTX ray tracing, a custom cloud simulation,
-and a film-quality final render matched against Arnold.
+🎬 **[A real-time render engine inside Maya's viewport](https://github.com/jlipstock/maya-cloudscape)**:
+Nanite-style streamed geometry with dynamic decimation, art-directable volumetric clouds and god rays,
+RTX ray-traced shadows, and a film-quality final render matched against Arnold. ([videos](https://www.youtube.com/watch?v=3wv_kF-BnFU))
 
 **What I work with**
 
